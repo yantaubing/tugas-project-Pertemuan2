@@ -3,5 +3,5 @@
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
-![Preview Aplikasi](link_ke_foto_lo.png)
+![Preview Aplikasi](asset/images/tampilan-app.jpeg)
 
